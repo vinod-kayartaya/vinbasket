@@ -1,28 +1,28 @@
 # REST endpoint for vinbasket app
 
-Install the Heroku CLI
-Download and install the Heroku CLI.
-
-If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
+1. Clone the repository
 
 ```
-$ heroku login
+git clone https://github.com/vinod-kayartaya/vinbasket.git
 ```
 
-Clone the repository
-
-Use Git to clone vinbasket's source code to your local machine.
+2. Install the dependencies
 
 ```
-$ heroku git:clone -a vinbasket
-$ cd vinbasket
+cd vinbasket
+npm install
 ```
 
-Deploy your changes
-Make some changes to the code you just cloned and deploy them to Heroku using Git.
+3. Start the app
 
 ```
-$ git add .
-$ git commit -am "make it better"
-$ git push heroku master
+npm start
 ```
+
+4. Access the endpoints
+    - http://localhost:8080/products
+    - http://localhost:8080/categories
+    - http://localhost:8080/brands
+    - http://localhost:8080/login (POST only)
+    - http://localhost:8080/customers (login required)
+    - http://localhost:8080/orders (login required)

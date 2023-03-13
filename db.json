@@ -22,7 +22,7 @@
                 {
                     "product": {
                         "id": 5,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Carrot",
                         "brand": "Malnad",
                         "description": "Carrot local",
@@ -36,7 +36,7 @@
                 {
                     "product": {
                         "id": 3,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Tomato",
                         "brand": "Malnad",
                         "description": "Hybrid tomato",
@@ -71,7 +71,7 @@
                 {
                     "product": {
                         "id": 5,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Carrot",
                         "brand": "Malnad",
                         "description": "Carrot local",
@@ -85,7 +85,7 @@
                 {
                     "product": {
                         "id": 3,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Tomato",
                         "brand": "Malnad",
                         "description": "Hybrid tomato",
@@ -121,7 +121,7 @@
                 {
                     "product": {
                         "id": 5,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Carrot",
                         "brand": "Malnad",
                         "description": "Carrot local",
@@ -135,7 +135,7 @@
                 {
                     "product": {
                         "id": 3,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Tomato",
                         "brand": "Malnad",
                         "description": "Hybrid tomato",
@@ -149,7 +149,7 @@
                 {
                     "product": {
                         "id": 1,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Onion",
                         "brand": "Fresho",
                         "description": "Onion - Medium",
@@ -163,7 +163,7 @@
                 {
                     "product": {
                         "id": 2,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Potato",
                         "brand": "Fresho",
                         "description": "Potato",
@@ -177,7 +177,7 @@
                 {
                     "product": {
                         "id": 9,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Capsicum",
                         "brand": "Malnad",
                         "description": "Capsicum Hybrid Green",
@@ -199,7 +199,7 @@
                 {
                     "product": {
                         "id": 4,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Ladies finger",
                         "brand": "Fresho",
                         "description": "Ladies Finger",
@@ -213,7 +213,7 @@
                 {
                     "product": {
                         "id": 2,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Potato",
                         "brand": "Fresho",
                         "description": "Potato",
@@ -235,7 +235,7 @@
                 {
                     "product": {
                         "id": 1,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Onion",
                         "brand": "Fresho",
                         "description": "Onion - Medium",
@@ -249,7 +249,7 @@
                 {
                     "product": {
                         "id": 2,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Potato",
                         "brand": "Fresho",
                         "description": "Potato",
@@ -291,7 +291,7 @@
                 {
                     "product": {
                         "id": 3,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Tomato",
                         "brand": "Malnad",
                         "description": "Hybrid tomato",
@@ -391,7 +391,7 @@
                 {
                     "product": {
                         "id": 9,
-                        "category": "vegitable",
+                        "category": "vegetable",
                         "name": "Capsicum",
                         "brand": "Malnad",
                         "description": "Capsicum Hybrid Green",
@@ -410,7 +410,7 @@
     "products": [
         {
             "id": 1,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Onion",
             "brand": "Fresho",
             "description": "Onion - Medium",
@@ -421,7 +421,7 @@
         },
         {
             "id": 2,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Potato",
             "brand": "Fresho",
             "description": "Potato",
@@ -432,7 +432,7 @@
         },
         {
             "id": 3,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Tomato",
             "brand": "Malnad",
             "description": "Hybrid tomato",
@@ -443,7 +443,7 @@
         },
         {
             "id": 4,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Ladies finger",
             "brand": "Fresho",
             "description": "Ladies Finger",
@@ -454,7 +454,7 @@
         },
         {
             "id": 5,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Carrot",
             "brand": "Malnad",
             "description": "Carrot local",
@@ -498,7 +498,7 @@
         },
         {
             "id": 9,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Capsicum",
             "brand": "Malnad",
             "description": "Capsicum Hybrid Green",
@@ -509,7 +509,7 @@
         },
         {
             "id": 10,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Ginger",
             "brand": "Malnad",
             "description": "Fresh Ginger - Grade A",
@@ -520,7 +520,7 @@
         },
         {
             "id": 11,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Cauliflower",
             "brand": "Malnad",
             "description": "Cauliflower medium",
@@ -531,7 +531,7 @@
         },
         {
             "id": 12,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Chillies",
             "brand": "Malnad",
             "description": "Green Chillies big - Grade A",
@@ -542,7 +542,7 @@
         },
         {
             "id": 13,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Cucumber",
             "brand": "Malnad",
             "description": "Cucumber local",
@@ -553,7 +553,7 @@
         },
         {
             "id": 14,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Lemon",
             "brand": "Malnad",
             "description": "Fresh lemon",
@@ -564,7 +564,7 @@
         },
         {
             "id": 15,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Coconut",
             "brand": "Malnad",
             "description": "Coconut medium",
@@ -575,7 +575,7 @@
         },
         {
             "id": 16,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Cabbage",
             "brand": "Malnad",
             "description": "Cabbage small - Grade A",
@@ -586,7 +586,7 @@
         },
         {
             "id": 17,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Beans",
             "brand": "Malnad",
             "description": "Fresh beans - french ring",
@@ -597,7 +597,7 @@
         },
         {
             "id": 18,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Garlic",
             "brand": "Malnad",
             "description": "Fresh garlic - white",
@@ -608,7 +608,7 @@
         },
         {
             "id": 19,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Brinjal",
             "brand": "Fresho",
             "description": "Brinjal - bottle shaped",
@@ -641,7 +641,7 @@
         },
         {
             "id": 22,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Ridge Gourd",
             "brand": "Fresho",
             "description": "Ridge Gourd - Medium",
@@ -652,7 +652,7 @@
         },
         {
             "id": 23,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Beetroot",
             "brand": "Fresho",
             "description": "Beetroot - Grade A",
@@ -685,7 +685,7 @@
         },
         {
             "id": 26,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Methi",
             "brand": "Malnad",
             "description": "Fresh methi",
@@ -696,7 +696,7 @@
         },
         {
             "id": 27,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Spring onion",
             "brand": "Fresho",
             "description": "Spring Onion",
@@ -729,7 +729,7 @@
         },
         {
             "id": 30,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Curry Leaves",
             "brand": "Malnad",
             "description": "Curry Leaves - Grade A",
@@ -740,7 +740,7 @@
         },
         {
             "id": 31,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Carrot",
             "brand": "Fresho",
             "description": "Carrot English",
@@ -751,7 +751,7 @@
         },
         {
             "id": 32,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Raw Banana",
             "brand": "Fresho",
             "description": "Raw Banana - Green",
@@ -762,7 +762,7 @@
         },
         {
             "id": 33,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Bitter Gourd",
             "brand": "Fresho",
             "description": "Bitter Gourd",
@@ -773,7 +773,7 @@
         },
         {
             "id": 34,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Sweet Corn",
             "brand": "Fresho",
             "description": "Sweet Corn - Grade A",
@@ -795,7 +795,7 @@
         },
         {
             "id": 36,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Tomato",
             "brand": "Fresho",
             "description": "Tomato Local - Organically grown",
@@ -806,7 +806,7 @@
         },
         {
             "id": 37,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Pumpkin",
             "brand": "Fresho",
             "description": "Pumpkin Green - Grade A",
@@ -817,7 +817,7 @@
         },
         {
             "id": 38,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Colocasia",
             "brand": "Fresho",
             "description": "Colocasia - Grade A",
@@ -839,7 +839,7 @@
         },
         {
             "id": 40,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Sweet Potato",
             "brand": "Fresho",
             "description": "Sweet Potato",
@@ -850,7 +850,7 @@
         },
         {
             "id": 41,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Karamani",
             "brand": "Fresho",
             "description": "Karamani - White",
@@ -861,7 +861,7 @@
         },
         {
             "id": 42,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Carrot",
             "brand": "Fresho",
             "description": "Carrot - Sliced",
@@ -872,7 +872,7 @@
         },
         {
             "id": 43,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Chutney Mix",
             "brand": "Fresho",
             "description": "Chutney Mix",
@@ -883,7 +883,7 @@
         },
         {
             "id": 44,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Corn",
             "brand": "Zespri",
             "description": "Corn kernels",
@@ -894,7 +894,7 @@
         },
         {
             "id": 45,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Chow Chow",
             "brand": "Fresho",
             "description": "Chow Chow - Diced",
@@ -905,7 +905,7 @@
         },
         {
             "id": 46,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Chillies",
             "brand": "Fresho",
             "description": "Green Chillies - chopped",
@@ -916,7 +916,7 @@
         },
         {
             "id": 47,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Korma Pack",
             "brand": "Fresho",
             "description": "Korma Pack for 2",
@@ -927,7 +927,7 @@
         },
         {
             "id": 48,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Snake gourd",
             "brand": "Fresho",
             "description": "Snake gourd - Diced",
@@ -938,7 +938,7 @@
         },
         {
             "id": 49,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Potato",
             "brand": "Fresho",
             "description": "Potato - Organically grown",
@@ -949,7 +949,7 @@
         },
         {
             "id": 50,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Onion",
             "brand": "Fresho",
             "description": "Sambhar Onion - Grade A",
@@ -1015,7 +1015,7 @@
         },
         {
             "id": 56,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Garlic",
             "brand": "Fresho",
             "description": "Garlic - Pealed",
@@ -1026,7 +1026,7 @@
         },
         {
             "id": 57,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Lemon",
             "brand": "Fresho",
             "description": "Lemon - Organically grown",
@@ -1048,7 +1048,7 @@
         },
         {
             "id": 59,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Capsicum",
             "brand": "Zespri",
             "description": "Capsicum - Red",
@@ -1059,7 +1059,7 @@
         },
         {
             "id": 60,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Baby Corn",
             "brand": "Fresho",
             "description": "Baby Corn - Pealed, Grade A",
@@ -1070,7 +1070,7 @@
         },
         {
             "id": 61,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Sprouts",
             "brand": "Fresho",
             "description": "Sprouts - Mixed Gram",
@@ -1092,7 +1092,7 @@
         },
         {
             "id": 63,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Chow Chow",
             "brand": "Fresho",
             "description": "Chow Chow - Grade A",
@@ -1103,7 +1103,7 @@
         },
         {
             "id": 64,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Ash Gourd",
             "brand": "Fresho",
             "description": "Cut - Ash Gourd",
@@ -1114,7 +1114,7 @@
         },
         {
             "id": 65,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Pumkin",
             "brand": "Fresho",
             "description": "Pumkin Green - Cut",
@@ -1125,7 +1125,7 @@
         },
         {
             "id": 66,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Cauliflower",
             "brand": "Fresho",
             "description": "Cauliflower - Florets, 1 no Tray",
@@ -1136,7 +1136,7 @@
         },
         {
             "id": 67,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Capsicum",
             "brand": "Fresho",
             "description": "Capsicum Yellow",
@@ -1147,7 +1147,7 @@
         },
         {
             "id": 68,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Yam",
             "brand": "Fresho",
             "description": "Elephant Foot Yam",
@@ -1213,7 +1213,7 @@
         },
         {
             "id": 74,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Knol Khol",
             "brand": "Fresho",
             "description": "Knol Khol",
@@ -1224,7 +1224,7 @@
         },
         {
             "id": 75,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Sweet Corn",
             "brand": "Fresho",
             "description": "Sweet Corn pellets",
@@ -1268,7 +1268,7 @@
         },
         {
             "id": 79,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Cucumber",
             "brand": "Fresho",
             "description": "Cucumber Color - Grade A",
@@ -1301,7 +1301,7 @@
         },
         {
             "id": 82,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Coconut",
             "brand": "Fresho",
             "description": "Coconut - Organically Grown",
@@ -1323,7 +1323,7 @@
         },
         {
             "id": 84,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Mushrooms",
             "brand": "Fresho",
             "description": "Mushrooms - Button",
@@ -1334,7 +1334,7 @@
         },
         {
             "id": 85,
-            "category": "vegitable",
+            "category": "vegetable",
             "name": "Cabbage",
             "brand": "Fresho",
             "description": "Cabbage - Red",
@@ -1344,7 +1344,7 @@
             "discount": 4
         }
     ],
-    "categories": ["vegitable", "fruit", "BEVERAGES"],
+    "categories": ["vegetable", "fruit", "BEVERAGES"],
     "brands": ["Fresho", "Malnad", "Zespri"],
     "customers": [
         {
